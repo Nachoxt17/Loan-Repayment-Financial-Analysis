@@ -25,7 +25,7 @@ This project investigates the relationships between borrower financial character
 ## ▶️ How to View & Run:
 Access the **read-only executable version** of the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1JpmQ8_xJWOjO4e8AufwBZiDgZ8mFYTgd/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T__XGydKTM-LPrif12H_aGPuPtVPn7ke?usp=sharing)
 
 This enables an interactive review of the analysis without requiring local installation.
 
