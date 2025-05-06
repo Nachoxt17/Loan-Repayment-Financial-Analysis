@@ -23,6 +23,8 @@ This project investigates the relationships between borrower financial character
 - `Loan_Repayment_Financial_Analysis.ipynb` — Jupyter Notebook analysis.
 
 ## ▶️ How to View & Run:
+Click in the  `Loan_Repayment_Financial_Analysis.ipynb` Jupyter Notebook in this repository (recommended for non-technical people)
+OR
 Access the **read-only executable version** of the notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T__XGydKTM-LPrif12H_aGPuPtVPn7ke?usp=sharing)
